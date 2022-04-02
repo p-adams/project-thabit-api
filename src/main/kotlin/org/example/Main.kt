@@ -1,6 +1,9 @@
 package org.example
 
-fun main(args: Array<String>) {
-    println("Hello, World")
+import io.javalin.Javalin
+
+fun main() {
+    val app = Javalin.create().start(7070)
+    app.get("/") { ctx -> ctx.result("Hello World") }
 }
 
