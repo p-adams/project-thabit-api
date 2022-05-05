@@ -24,7 +24,13 @@ fun main() {
             get { ctx -> ctx.result("measurements") }
         }
         path("weights") {
-            get { ctx -> ctx.result("weights") }
+            path("convert") {
+                get {
+                    ctx ->
+                    val a = ctx.queryParamMap()
+                    ctx.result(a.toString())
+                }
+            }
         }
     }
 }
