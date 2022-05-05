@@ -27,6 +27,7 @@ fun main() {
             path("convert") {
                 get {
                     ctx ->
+                    // http://localhost:7070/weights/convert?amount=16&from=lbs&to=oz
                     val a = ctx.queryParamMap()
                     ctx.result(a.toString())
                 }
