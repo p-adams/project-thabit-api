@@ -1,8 +1,2 @@
-/target
-pom.xml
-pom.xml.asc
-*.jar
-*.class
-.DS_STORE
-.idea
+
 
