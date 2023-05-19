@@ -1,3 +1,3 @@
 # Weights and Measures API
 
-API to convert to and from Islamic Weights and Measures
+API that supports bi-directional conversion of Islamic Weights and Measures.
