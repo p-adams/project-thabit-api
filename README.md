@@ -33,5 +33,3 @@ API that supports bi-directional conversion of Islamic Weights and Measures.
 | Dhira' (ذراع)                | 0.58 meters       | 1.9 feet      |
 | Mile (ميل)                   | 1.8 kilometers    | 1.12 miles    |
 | Sha' (شعاع)                  | 4.2 meters        | 13.78 feet    |
-
-You can copy and paste these tables directly into your README.md file.
