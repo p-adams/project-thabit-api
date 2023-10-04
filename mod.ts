@@ -1,2 +1,1 @@
-export { islamicDistanceConversions } from "./lib/distance.ts";
-export { islamicWeightConversions } from "./lib/weight.ts";
+export { convertIslamicDistance, convertIslamicWeight } from "./lib/main.ts";

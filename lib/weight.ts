@@ -11,5 +11,4 @@ export const islamicWeightConversions: Record<
   "Oqiya (عقيقة)": { metric: 1300, us: 2.87 },
   "Wukrya (وكرية)": { metric: 4000, us: 8.82 },
   "Load (ثقل)": { metric: 120000, us: 264.55 },
-  "Talent (ثقل)": { metric: 22680, us: 50 },
 };

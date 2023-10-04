@@ -17,7 +17,6 @@ API that supports bi-directional conversion of Islamic Weights and Measures.
 | Oqiya (عقيقة)              | 1300 grams        | 2.87 pounds   |
 | Wukrya (وكرية)             | 4 kilograms       | 8.82 pounds   |
 | Load (ثقل)                 | 120 kilograms     | 264.55 pounds |
-| Talent (ثقل)               | 22.68 kilograms   | 50 pounds     |
 
 ### Islamic Distance Measurements
 
