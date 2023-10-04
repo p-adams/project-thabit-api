@@ -31,5 +31,4 @@ API that supports bi-directional conversion of Islamic Weights and Measures.
 | Dhiraa' (ذراع)               | 0.58 meters       | 1.9 feet      |
 | Saa' (ساعة)                  | 1.38 meters       | 4.53 feet     |
 | Dhira' (ذراع)                | 0.58 meters       | 1.9 feet      |
-| Mile (ميل)                   | 1.8 kilometers    | 1.12 miles    |
 | Sha' (شعاع)                  | 4.2 meters        | 13.78 feet    |
